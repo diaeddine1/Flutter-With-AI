@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805683853271",
+    "project_id": "flutterai-d8353",
+    "storage_bucket": "flutterai-d8353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805683853271:android:fc54f34c4360285813bd92",
+        "android_client_info": {
+          "package_name": "com.example.flutterai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4uiS0y5hiqd-qWnGJuBrTmLE7RH2FR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
